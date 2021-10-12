@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Веб лабы\2_впф\WPF_Osnovy_2-Option_1\Praktikum_2\bin\Debug\Praktikum_2.exe.config
+C:\Users\user\Desktop\Веб лабы\2_впф\WPF_Osnovy_2-Option_1\Praktikum_2\bin\Debug\Praktikum_2.exe
+C:\Users\user\Desktop\Веб лабы\2_впф\WPF_Osnovy_2-Option_1\Praktikum_2\bin\Debug\Praktikum_2.pdb
+C:\Users\user\Desktop\Веб лабы\2_впф\WPF_Osnovy_2-Option_1\Praktikum_2\obj\Debug\Praktikum_2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Веб лабы\2_впф\WPF_Osnovy_2-Option_1\Praktikum_2\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Веб лабы\2_впф\WPF_Osnovy_2-Option_1\Praktikum_2\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Веб лабы\2_впф\WPF_Osnovy_2-Option_1\Praktikum_2\obj\Debug\Praktikum_2_MarkupCompile.cache
+C:\Users\user\Desktop\Веб лабы\2_впф\WPF_Osnovy_2-Option_1\Praktikum_2\obj\Debug\Praktikum_2_MarkupCompile.lref
+C:\Users\user\Desktop\Веб лабы\2_впф\WPF_Osnovy_2-Option_1\Praktikum_2\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Веб лабы\2_впф\WPF_Osnovy_2-Option_1\Praktikum_2\obj\Debug\Praktikum_2.g.resources
+C:\Users\user\Desktop\Веб лабы\2_впф\WPF_Osnovy_2-Option_1\Praktikum_2\obj\Debug\Praktikum_2.Properties.Resources.resources
+C:\Users\user\Desktop\Веб лабы\2_впф\WPF_Osnovy_2-Option_1\Praktikum_2\obj\Debug\Praktikum_2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Веб лабы\2_впф\WPF_Osnovy_2-Option_1\Praktikum_2\obj\Debug\Praktikum_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Веб лабы\2_впф\WPF_Osnovy_2-Option_1\Praktikum_2\obj\Debug\Praktikum_2.exe
+C:\Users\user\Desktop\Веб лабы\2_впф\WPF_Osnovy_2-Option_1\Praktikum_2\obj\Debug\Praktikum_2.pdb
